@@ -1,0 +1,6 @@
+groq>=0.4.2
+python-dotenv>=1.0.0
+click>=8.1.7
+rich>=13.7.0
+requests>=2.31.0
+keyring>=24.3.0
